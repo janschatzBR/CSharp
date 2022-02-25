@@ -1,0 +1,11 @@
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.exe
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.deps.json
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.runtimeconfig.json
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.dll
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.pdb
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.dll
+C:\Users\jan.schatz\Desktop\DIO_Proj\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.pdb
